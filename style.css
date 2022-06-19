@@ -33,42 +33,6 @@ h1,h2,h3,h4,h5,h6 {
 
 }
 
-.google-ads {
-    margin: 0 auto;
-    text-align: center;
-}
-
-.google-ads1 {
-    margin: 5px;
-    width: 336px;
-    height: 280px;
-    display: inline-block;
-}
-
-.google-ads2 {
-    margin: 5px;
-    width: 336px;
-    height: 280px;
-    display: inline-block;
-}
-
-.google-ads-type-2 {
-    margin: 0 auto;
-    text-align: center;
-    width: 970px;
-    height: auto;
-    display: inline-block;
-}
-
-.google-ads-type-2-banner {
-    max-width: 970px;
-    height: auto;
-    text-align: center;
-    margin-top: 5px;
-    margin-bottom: 5px;
-
-}
-
 .cpmstar-bottom {
     max-width: 300px;
     height: auto;
